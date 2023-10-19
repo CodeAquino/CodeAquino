@@ -1,8 +1,8 @@
-# Olá, me chamo Gabriel Aquino ! 
+# Olá, me chamo Gabriel Aquino 
 
-- 🔭 Hoje trabalho com back-end
-- 🌱 Estudo 
-- 😄 Pronouns: Ele/Dele
+- 🔭 Hoje trabalho com front-end
+- 🌱 Estudo
+- 😄 Ele/Dele
 
 <div>
 <a href="https://github.com/codeaquino">
