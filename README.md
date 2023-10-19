@@ -16,3 +16,5 @@
 <a href="https://instagram.com/CodeAquino" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-cd486b?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 <a href="https://www.twitter.com/CodeAquino" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/twitter-black?style=for-the-badge&logo=X&logoColor=white" target="_blank"></a>
 </div>
+
+![Snake animation](https://github.com/codeaquino/codeaquino/blob/output/github-contribution-grid-snake.svg)
