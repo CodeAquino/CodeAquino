@@ -1,7 +1,7 @@
 # Olá, me chamo Gabriel Aquino 
 
-- 🔭 Hoje trabalho com front-end
-- 🌱 Estudo
+- 🔭 Hoje trabalho com back-end
+- 🌱 Estudando Solidity
 - 😄 Ele/Dele
 
 
